@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LZMODE</string>
+    <string name="notification_channel_name">Playback Controls</string>
+    <string name="notification_channel_description">Shows notifications for media playback</string>
+</resources>
