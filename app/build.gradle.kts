@@ -32,6 +32,9 @@ android {
 }
 
 dependencies {
+    implementation("androidx.core:core:1.7.0")
+    implementation("androidx.media:media:1.6.0")
+    implementation("com.google.android.material:material:1.12.0")
     implementation("com.google.android.exoplayer:exoplayer:2.19.1")
     implementation("androidx.media:media:1.4.3")
     implementation("androidx.media:media:1.4.3")
